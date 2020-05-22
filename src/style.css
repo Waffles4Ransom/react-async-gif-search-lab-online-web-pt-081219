@@ -1,0 +1,17 @@
+.form {
+  float: right;
+  padding-right: 40px;
+}
+
+input {
+  margin: 0 0 5px;
+}
+
+button {
+  display: block;
+  background-color: mediumseagreen;
+}
+
+li {
+  margin: 5px
+}
